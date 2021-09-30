@@ -21,8 +21,7 @@
 - 핵심 기술 : TensorFlow DeepLearning을 통한 자세 인식 및 Android API를 이용한 음악 생성, 언어는 Kotlin 및 JAVA를 사용
 
 - 사용 툴 : 안드로이드 스튜디오, Github
-
-```
+********************
 Tensorflow의 Light Pose Estimation 샘플은 Movenet API를 사용하는 방법을 보여준다. 
 
 이 예제를 참고하고 변형해, 사람의 손목과 어깨의 위치를 파악하고 왼손 손목이 어깨로부터 얼마나 떨어져있는지를 계산해 음의 높낮이를 결정한다. 
@@ -42,7 +41,9 @@ SoundPool 뿐만 아니라 AudioTrack, AudioFormat을 이용할 것이다. 두 A
 이를 통해 여러 다양한 소리를 만들어 연주가 가능하도록 할 것이다.
 
 간단한 예시로 createSinWaveBuffer( freq,  milisecond,  sampleRate)와 같이 소리의 요소들을 조절하여 소리 샘플 버퍼를 생성한다. 
-```
+
+********************
+
 ## 4.참고자료
 Tensorflow 예제 Light Pose Estimation 참고
 
