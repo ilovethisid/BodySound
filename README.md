@@ -32,6 +32,8 @@ Tensorflow의 Light Pose Estimation 샘플은 Movenet API를 사용하는 방법
 
 왼쪽 손목이 움직일때마다 소리가 나면 매우 불편할것이므로, 오른쪽 손목이 움직일때만 소리가 나게 구현할 것이다. 
 
+********************
+
 소리와 같은 경우는 android.media package에 포함되어 있는 SoundPool API를 활용할 것이다.
 
 SoundPool은 여러 사운드 샘플들을 메모리에 로드하여 소리를 재생할 수 있게 해준다. 
