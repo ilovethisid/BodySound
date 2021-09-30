@@ -22,7 +22,9 @@
 
 - 사용 툴 : 안드로이드 스튜디오, Github
 ********************
-Tensorflow의 Light Pose Estimation 샘플은 Movenet API를 사용하는 방법을 보여준다. 
+### 1).텐서플로우 이용
+
+Tensorflow의 Light Pose Estimation 샘플은 Movenet Model를 사용하는 방법을 보여준다. 
 
 이 예제를 참고하고 변형해, 사람의 손목과 어깨의 위치를 파악하고 왼손 손목이 어깨로부터 얼마나 떨어져있는지를 계산해 음의 높낮이를 결정한다. 
 
@@ -33,6 +35,7 @@ Tensorflow의 Light Pose Estimation 샘플은 Movenet API를 사용하는 방법
 왼쪽 손목이 움직일때마다 소리가 나면 매우 불편할것이므로, 오른쪽 손목이 움직일때만 소리가 나게 구현할 것이다. 
 
 ********************
+### 2). 음의 
 
 소리와 같은 경우는 android.media package에 포함되어 있는 SoundPool API를 활용할 것이다.
 
