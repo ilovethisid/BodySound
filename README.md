@@ -44,7 +44,7 @@
   간단한 예시로 createSinWaveBuffer( freq,  milisecond,  sampleRate)와 같이 소리의 요소들을 조절하여 소리 샘플 버퍼를 생성한다. 
 
 
-
+## 4.참고자료
 Tensorflow 예제 Light Pose Estimation 참고
 
  -> <https://github.com/tensorflow/examples/tree/master/lite/examples/pose_estimation/android>
