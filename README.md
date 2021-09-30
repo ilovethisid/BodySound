@@ -35,17 +35,17 @@
 
 
 Tensorflow 예제 Light Pose Estimation 참고
-<https://github.com/tensorflow/examples/tree/master/lite/examples/pose_estimation/android>
+ -> <https://github.com/tensorflow/examples/tree/master/lite/examples/pose_estimation/android>
 
 Tensorflow Movenet Model
-<https://github.com/tensorflow/tfjs-models/tree/master/pose-detection/src/movenet>
+ -> <https://github.com/tensorflow/tfjs-models/tree/master/pose-detection/src/movenet>
 
 SoundPool
-<https://developer.android.com/reference/kotlin/android/media/SoundPool>
+ -> <https://developer.android.com/reference/kotlin/android/media/SoundPool>
 
 AudioTrack
-<https://developer.android.com/reference/kotlin/android/media/AudioTrack>
+ -> <https://developer.android.com/reference/kotlin/android/media/AudioTrack>
 
 AudioFormat
-<https://developer.android.com/reference/kotlin/android/media/AudioFormat>
+ -> <https://developer.android.com/reference/kotlin/android/media/AudioFormat>
 
