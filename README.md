@@ -17,9 +17,9 @@
 ### 3.구현방법
 ![image](https://user-images.githubusercontent.com/29995264/135447625-0bd9cd86-85af-43c3-8707-91880b908389.png)
 - 플랫폼 : 모바일 app
-- 
+
 - 핵심 기술 : TensorFlow DeepLearning을 통한 자세 인식 및 Android API를 이용한 음악 생성, 언어는 Kotlin 및 JAVA를 사용
-- 
+
 - 사용 툴 : 안드로이드 스튜디오, Github
 
 
