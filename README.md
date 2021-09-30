@@ -32,7 +32,7 @@
 ********************
 ### 3-1) 텐서플로우 이용
 
- Tensorflow의 Light Pose Estimation 샘플은 Movenet Model를 사용하는 방법을 보여준다. 
+ **Tensorflow**의 **Light Pose Estimation** 샘플은 **Movenet Model**를 사용하는 방법을 보여준다. 
 
  이 예제를 참고하고 변형해, 사람의 손목과 어깨의 위치를 파악하고 왼손 손목이 어깨로부터 얼마나 떨어져있는지를 계산해 음의 높낮이를 결정한다. 
 
@@ -45,11 +45,11 @@
 ********************
 ### 3-2) 음의 제작
 
- 소리와 같은 경우는 android.media package에 포함되어 있는 SoundPool API를 활용할 것이다.
+ 소리와 같은 경우는 **android.media package**에 포함되어 있는 **SoundPool API**를 활용할 것이다.
 
- SoundPool은 여러 사운드 샘플들을 메모리에 로드하여 소리를 재생할 수 있게 해준다. 
+ **SoundPool**은 여러 사운드 샘플들을 메모리에 로드하여 소리를 재생할 수 있게 해준다. 
 
- SoundPool 뿐만 아니라 AudioTrack, AudioFormat을 이용할 것이다. 두 API를 이용하여 주파수, 파형, 음폭을 조절한다.
+ **SoundPool** 뿐만 아니라 **AudioTrack**, **AudioFormat**을 이용할 것이다. 두 API를 이용하여 주파수, 파형, 음폭을 조절한다.
 
  이를 통해 여러 다양한 소리를 만들어 연주가 가능하도록 할 것이다.
 
