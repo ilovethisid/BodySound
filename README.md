@@ -28,11 +28,11 @@
 
 ### 3. 구현방법
 ![image](https://user-images.githubusercontent.com/29995264/135447625-0bd9cd86-85af-43c3-8707-91880b908389.png)
-- 플랫폼 : 모바일 app
+        - 플랫폼 : 모바일 app
 
-- 핵심 기술 : **TensorFlow DeepLearning**을 통한 자세 인식 및 **Android API**를 이용한 음악 생성, 언어는 **Kotlin** 및 **JAVA**를 사용
+        - 핵심 기술 : **TensorFlow DeepLearning**을 통한 자세 인식 및 **Android API**를 이용한 음악 생성, 언어는 **Kotlin** 및 **JAVA**를 사용
 
-- 사용 툴 : 안드로이드 스튜디오, Github
+        - 사용 툴 : 안드로이드 스튜디오, Github
         ### 3-1) 텐서플로우 이용
 
          **Tensorflow**의 **Light Pose Estimation** 샘플은 **Movenet Model**를 사용하는 방법을 보여준다. 
