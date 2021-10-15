@@ -204,7 +204,6 @@ class PoseNet(private val interpreter: Interpreter, private var gpuDelegate: Gpu
             cropWidth = (bitmap.height - bitmap.width).toFloat()
             bitmap.height
         }
-
         val imageProcessor = ImageProcessor.Builder().apply {
             add(ResizeWithCropOrPadOp(cropSize, cropSize))
             add(ResizeOp(inputWidth, inputHeight, ResizeOp.ResizeMethod.BILINEAR))
